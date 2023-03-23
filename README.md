@@ -3,6 +3,8 @@ I'm pretty ok(ish) at making websites, I'm trying to get better at Python and C+
 
 Things I use:
 M1 Pro MacBook Pro 14' (16gb, 512gb)
-coffee
-redbull
+JetBrains Rider EAP
+JetBrains Webstorm
+
+redbull is pretty goated
 
